@@ -28,6 +28,11 @@ AAA
 1. **ANTECEDENTES DEL PROBLEMA DE ESTUDIO** 
 
 AAA
+Según la Digital Master Marketing Business School (IEBS), habla sobre importante significado del marketing digital que nace en 1995, sumado a esto la llegada de las redes sociales. A partir de esto es cuando las empresas empezaron a trabajar en diferentes métodos para introducirse a la era de la digitalización, con la intención de captar la atención del público. Cabe recalcar, en años anteriores los instrumentos que se utilizaban eran muy primitivos. Las computadoras aún seguían siendo dispositivos de alto valor al igual que el Internet, si alguna persona tenía la capacidad de adquirirlos, no se podía garantizar que fueran equipos de alta calidad.
+La mayoría de las compañías tampoco veían necesidad de un perfil digital demasiado elaborado, debido a que la publicidad en línea se basaba en páginas web 1.0, que era el primer acceso web que se creó, esto implicaba que el contenido que estaba era muy limitado, además de que no se contaba con mucho equipo para laborar. 
+Con el pasar de los años cambió, diferentes aplicaciones empezaron a surgir, iniciando gracias a la accesibilidad que se tuvo por parte de los usuarios, lo que generaba un mayor alcance de individuos por medio de los diferentes medios que tenían a su alcance, permitiendo abrir una ventana de posibilidades para extraer información necesaria que podía ser utilizada como beneficio propio.
+Otro punto a tomar en cuenta, es el cambio que ha tenido el CV o mejor conocido como Currículum físico, donde antes era de suma importancia para una empresa, en el que se trabajaba con una gran cantidad de trámites por medio de papeles para lograr obtener un puesto laboral, lo que ha tenido que irse contrarrestando poco a poco, generando la llegada de nuevas herramientas tecnológicas que permiten agilizar dicho proceso.
+
 
 1. **PLANTEAMIENTO DEL PROBLEMA** 
 
@@ -40,9 +45,12 @@ AAA
 1. **OBJETIVO GENERAL**
 
 AAAA
+Determinar y analizar la importancia del perfil digital con el fin de comprender la utilidad como fuente de empleabilidad para las personas y su importancia en la sociedad actual.
 
 1. **OBJETIVOS ESPECÍFICOS** 
 - AAA
+Demostrar la viabilidad en la sociedad actual con la finalidad de ayudar la falta de empleabilidad costarricense.
+Denotar la importancia significativa del perfil digital en la obtención, creación y sustentación del empleo en la sociedad.
 
 1. ` `**DELIMITACIÓN, ALCANCE O COBERTURA** 
 
